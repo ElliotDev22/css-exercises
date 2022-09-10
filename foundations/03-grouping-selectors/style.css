@@ -1,0 +1,14 @@
+.open,
+.close {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+    }
+
+.open {
+    background-color: black;
+    color: white;
+}
+
+.close {
+    background-color:yellow;
+}

@@ -1,0 +1,20 @@
+.red-class {
+    background-color: #FF7F7F ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+.bigred-class {
+    font-size: 24px;
+    }
+
+#titleblue {
+    color: #0000FF;
+    font-size: 36px;    
+    }
+
+#titlegreen {
+    background-color: #90EE90;
+    font-size: 24px;
+    font-weight: 700;
+    }
+
